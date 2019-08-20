@@ -15,9 +15,7 @@ class Des
 
     /**
      * AES加密
-     *
      * 可传入自定义密码
-     *
      * $key
      */
     public function encrypt($cleartext,$key = ''){
@@ -32,9 +30,7 @@ class Des
 
     /**
      * AES解密
-     *
      * 可传入自定义密码
-     *
      * $key
      */
     public function decrypt($encrypted,$key = ''){
