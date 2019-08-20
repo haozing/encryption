@@ -1,4 +1,13 @@
 {
+    "name": "haozi/encryption",
+    "description": "A simple encryption.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "haozing",
+            "email": "570193025@qq.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Haozi\\Encryption\\": "src"
